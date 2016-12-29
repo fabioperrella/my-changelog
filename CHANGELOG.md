@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 28-12-2016 | rspec | remote factory-girl |
 | 27-12-2016 | postgres | where com regex, ex: `where xx ~ '.+\d+'` |
 | 26-12-2016 | sublime | ctrl + j (Joining and swapping lines) |
 | 22-12-2016 | bash | function pra rodar o “alias” rs, pois alias não é dinamico |
