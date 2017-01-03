@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 01-01-2017 | bash | it is possible to create a dynamic alias using single quotes (instead of using double quotes) |
 | 30-12-2016 | ruby | avoid recursion, prefer [iterations](http://www.refactoring.com/catalog/replaceRecursionWithIteration.html) |
 | 30-12-2016 | rspec | its. Ex: `its(:domain) { params[:domain] }` |
 | 28-12-2016 | rspec | remote factory-girl |
