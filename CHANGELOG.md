@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 03-01-2017 | git | git changelog (alias `changelog=log --reverse --pretty=format:'- %B' master..HEAD`). The output can be used to create the merge request |
 | 01-01-2017 | bash | it is possible to create a dynamic alias using single quotes (instead of using double quotes) |
 | 30-12-2016 | ruby | avoid recursion, prefer [iterations](http://www.refactoring.com/catalog/replaceRecursionWithIteration.html) |
 | 30-12-2016 | rspec | its. Ex: `its(:domain) { params[:domain] }` |
