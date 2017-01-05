@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 05/01/17 | jsonapi| [Compound-Documents](http://jsonapi.org/format/#document-compound-documents) |
 | 03/01/17 | git | git changelog (alias `changelog=log --reverse --pretty=format:'- %B' master..HEAD`). The output can be used to create the merge request |
 | 01/01/17 | bash | it is possible to create a dynamic alias using single quotes (instead of using double quotes) |
 | 30/12/16 | ruby | avoid recursion, prefer [iterations](http://www.refactoring.com/catalog/replaceRecursionWithIteration.html) |
@@ -16,3 +17,4 @@
 | 22/12/16 | docs | http://keepachangelog.com |
 | 22/12/16 | git | [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) |
 | 22/12/16 | git | [How to write a git commit message](http://chris.beams.io/posts/git-commit/) |
+| 22/12/16 | ruby | Using monads to multi-step code |
