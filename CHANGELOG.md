@@ -21,3 +21,6 @@
 | 22/12/16 | git | [How to write a git commit message](http://chris.beams.io/posts/git-commit/) |
 | 22/12/16 | git | Rebuild commits using reset and tig (add interactive) before create a MR |
 | 22/12/16 | ruby | Using monads to multi-step code |
+| 22/12/16 | docs | diagrams in ascii: [asciiflow.com](http://asciiflow.com) |
+| 22/12/16 | docs | [gitbook](https://www.gitbook.com/) |
+| 22/12/16 | docs | [Mermaid to "code" diagrams](https://knsv.github.io/mermaid/) |
