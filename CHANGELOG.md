@@ -24,3 +24,4 @@
 | 22/12/16 | docs | diagrams in ascii: [asciiflow.com](http://asciiflow.com) |
 | 22/12/16 | docs | [gitbook](https://www.gitbook.com/) |
 | 22/12/16 | docs | [Mermaid to "code" diagrams](https://knsv.github.io/mermaid/) |
+| 22/12/16 | rspec | Dont DRY the tests:  http://blog.plataformatec.com.br/2014/04/improve-your-test-readability-using-the-xunit-structure, https://robots.thoughtbot.com/lets-not, http://stackoverflow.com/questions/6453235/what-does-damp-not-dry-mean-when-talking-about-unit-tests |
