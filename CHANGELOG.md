@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 11/01/17 | sublime | wakatime (time tracking) |
 | 09/01/17 | bundler | ruby version only accepts the exact version (it does not accept '> 2.1' or '~> 2.1') |
 | 05/01/17 | jsonapi| [Compound-Documents](http://jsonapi.org/format/#document-compound-documents) |
 | 03/01/17 | git | git changelog (alias `changelog=log --reverse --pretty=format:'- %B' master..HEAD`). The output can be used to create the merge request |
@@ -18,4 +19,5 @@
 | 22/12/16 | docs | http://keepachangelog.com |
 | 22/12/16 | git | [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) |
 | 22/12/16 | git | [How to write a git commit message](http://chris.beams.io/posts/git-commit/) |
+| 22/12/16 | git | Rebuild commits using reset and tig (add interactive) before create a MR |
 | 22/12/16 | ruby | Using monads to multi-step code |
