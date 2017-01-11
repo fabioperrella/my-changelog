@@ -1,6 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
-| 11/01/17 | sublime | wakatime (time tracking) |
+| 11/01/17 | sublime | wakatime.com (time tracking) |
 | 09/01/17 | bundler | ruby version only accepts the exact version (it does not accept '> 2.1' or '~> 2.1') |
 | 05/01/17 | jsonapi| [Compound-Documents](http://jsonapi.org/format/#document-compound-documents) |
 | 03/01/17 | git | git changelog (alias `changelog=log --reverse --pretty=format:'- %B' master..HEAD`). The output can be used to create the merge request |
