@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 16/01/17 | git | [how to add custom commands to tig](https://github.com/fabioperrella/dotfiles/commit/848fca0ddcdfef1b43fb859a30b82b55a6ee9626) |
 | 11/01/17 | productivity | [rescue time](http://rescuetime.com) for time track in general  |
 | 11/01/17 | productivity | wakatime.com (time tracking) |
 | 09/01/17 | bundler | ruby version only accepts the exact version (it does not accept '> 2.1' or '~> 2.1') |
