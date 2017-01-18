@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 17/01/17 | ruby | use `Module.prepend` to log messages and keep the main class cleaner |
 | 16/01/17 | git | [how to add custom commands to tig](https://github.com/fabioperrella/dotfiles/commit/848fca0ddcdfef1b43fb859a30b82b55a6ee9626) |
 | 11/01/17 | productivity | [rescue time](http://rescuetime.com) for time track in general  |
 | 11/01/17 | productivity | wakatime.com (time tracking) |
