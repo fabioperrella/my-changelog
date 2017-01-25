@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 25/01/17 | ruby | [Enumerator::Lazy](http://dev.af83.com/2012/11/22/ruby-2-0-enumerator-lazy.html) to iterate without creating intermediate arrays |
 | 17/01/17 | rspec | difference between `double` and `spy`. Spy is made to be used with `have_received` |
 | 17/01/17 | ruby | use `Module.prepend` to log messages and keep the main class cleaner |
 | 16/01/17 | git | [how to add custom commands to tig](https://github.com/fabioperrella/dotfiles/commit/848fca0ddcdfef1b43fb859a30b82b55a6ee9626) |
