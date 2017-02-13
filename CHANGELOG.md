@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 13/02/17 | bash | `!#set -eou pipefail` |
 | 10/02/17 | tools | [sqlectron - client sql for linux](sqlectron.github.io) |
 | 09/02/17 | rspec | [sanitize post body for random params](http://railsware.com/blog/2013/10/03/custom-vcr-matchers-for-dealing-with-mutable-http-requests/) |
 | 07/02/17 | tools | [Json diff tool](http://jsondiff.com/)  |
