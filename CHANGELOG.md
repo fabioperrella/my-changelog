@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 10/02/17 | tools | [sqlectron - client sql for linux](sqlectron.github.io) |
 | 09/02/17 | rspec | [sanitize post body for random params](http://railsware.com/blog/2013/10/03/custom-vcr-matchers-for-dealing-with-mutable-http-requests/) |
 | 07/02/17 | tools | [Json diff tool](http://jsondiff.com/)  |
 | 02/02/17 | git | [Auto-squashing Git Commits](https://robots.thoughtbot.com/autosquashing-git-commits)  |
