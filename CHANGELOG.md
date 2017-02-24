@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 24/02/17 | ruby | [gem pronto](https://github.com/mmozuras/pronto) to run rubocop in current MR |
 | 15/02/17 | ruby | [bundle outdated --strict](http://bundler.io/v1.3/bundle_outdated.html) |
 | 15/02/17 | bash | [tee /dev/tty](http://stackoverflow.com/questions/5677201/how-to-pipe-stdout-while-keeping-it-on-screen-and-not-to-a-output-file) |
 | 13/02/17 | bash | `!#set -eou pipefail` |
