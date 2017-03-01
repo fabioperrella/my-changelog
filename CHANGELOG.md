@@ -1,5 +1,7 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 01/03/17 | sublime | [shortcut to move to other panels](http://stackoverflow.com/questions/25065771/move-tab-from-one-column-to-another-in-sublime-using-only-keys) |
+| 24/02/17 | productivity | menos reuniões com discussões assíncronas (basecamp) |
 | 24/02/17 | ruby | [gem pronto](https://github.com/mmozuras/pronto) to run rubocop in current MR |
 | 15/02/17 | ruby | [bundle outdated --strict](http://bundler.io/v1.3/bundle_outdated.html) |
 | 15/02/17 | bash | [tee /dev/tty](http://stackoverflow.com/questions/5677201/how-to-pipe-stdout-while-keeping-it-on-screen-and-not-to-a-output-file) |
