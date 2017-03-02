@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 02/03/17 | tools | [jepsen.io](jepsen.io) for analysis over databases |
 | 01/03/17 | sublime | [shortcut to move to other panels](http://stackoverflow.com/questions/25065771/move-tab-from-one-column-to-another-in-sublime-using-only-keys) |
 | 24/02/17 | productivity | menos reuniões com discussões assíncronas (basecamp) |
 | 24/02/17 | ruby | [gem pronto](https://github.com/mmozuras/pronto) to run rubocop in current MR |
