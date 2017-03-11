@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 11/03/17 | js | [Current status of JS tools](https://hackernoon.com/a-map-to-modern-javascript-development-2017-16d9eb86309c#.8xo1fckel) |
 | 02/03/17 | tools | [jepsen.io](jepsen.io) for analysis over databases |
 | 01/03/17 | sublime | [shortcut to move to other panels](http://stackoverflow.com/questions/25065771/move-tab-from-one-column-to-another-in-sublime-using-only-keys) |
 | 24/02/17 | productivity | menos reuniões com discussões assíncronas (basecamp) |
