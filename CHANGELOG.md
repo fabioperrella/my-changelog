@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 16/03/17 | rails | ActiveRecord query `.where('lala = :value and popo = :other', value: 'x', other: 'y')` |
 | 14/03/17 | rails | [ActiveRecord nested transactions](http://api.rubyonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html) |
 | 11/03/17 | js | [Current status of JS tools](https://hackernoon.com/a-map-to-modern-javascript-development-2017-16d9eb86309c#.8xo1fckel) |
 | 02/03/17 | tools | [jepsen.io](jepsen.io) for analysis over databases |
