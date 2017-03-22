@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 22/03/17 | ruby | [Array &(and)](https://ruby-doc.org/core-2.4.0/Array.html#method-i-26) to return the intersection of 2 arrays |
 | 16/03/17 | rails | ActiveRecord query `.where('lala = :value and popo = :other', value: 'x', other: 'y')` |
 | 14/03/17 | rails | [ActiveRecord nested transactions](http://api.rubyonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html) |
 | 11/03/17 | js | [Current status of JS tools](https://hackernoon.com/a-map-to-modern-javascript-development-2017-16d9eb86309c#.8xo1fckel) |
