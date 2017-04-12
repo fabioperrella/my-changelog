@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 12/04/17 | bash | use `{}` to join output to pipe, ex: `{ echo 1; echo 11; echo 0; } \| grep 1` |
 | 07/04/17 | grafana | use `group by time($interval)` to retrive data from a big time interval, otherwise it will reach the limit of `max-select-point` |
 | 22/03/17 | ruby | [Array &(and)](https://ruby-doc.org/core-2.4.0/Array.html#method-i-26) to return the intersection of 2 arrays |
 | 16/03/17 | rails | ActiveRecord query `.where('lala = :value and popo = :other', value: 'x', other: 'y')` |
