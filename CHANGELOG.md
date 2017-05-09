@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 09/05/17 | postgres | [query case insensitive](https://nandovieira.com.br/usando-campos-case-insensitive-no-postgresql) |
 | 13/04/17 | tools | [autojump to change dirs fast](https://github.com/wting/autojump) |
 | 12/04/17 | rspec | [diffence between `spy`, `double` and `instance_double`](https://www.ombulabs.com/blog/rspec/ruby/spy-vs-double-vs-instance-double.html) |
 | 12/04/17 | bash | use `{}` to join output to pipe, ex: `{ echo 1; echo 11; echo 0; } \| grep 1` |
