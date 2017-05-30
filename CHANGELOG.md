@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 30/05/17 | rails | [ActiveRecord Merge](https://apidock.com/rails/v4.2.7/ActiveRecord/SpawnMethods/merge) |
 | 09/05/17 | postgres | [query case insensitive](https://nandovieira.com.br/usando-campos-case-insensitive-no-postgresql) |
 | 13/04/17 | tools | [autojump to change dirs fast](https://github.com/wting/autojump) |
 | 12/04/17 | rspec | [diffence between `spy`, `double` and `instance_double`](https://www.ombulabs.com/blog/rspec/ruby/spy-vs-double-vs-instance-double.html) |
