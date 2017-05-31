@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 31/05/17 | rspec | [Rspec compound expectations](https://relishapp.com/rspec/rspec-expectations/docs/compound-expectations) |
 | 30/05/17 | rails | [ActiveRecord Merge](https://apidock.com/rails/v4.2.7/ActiveRecord/SpawnMethods/merge) |
 | 09/05/17 | postgres | [query case insensitive](https://nandovieira.com.br/usando-campos-case-insensitive-no-postgresql) |
 | 13/04/17 | tools | [autojump to change dirs fast](https://github.com/wting/autojump) |
