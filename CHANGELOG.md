@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 23/08/17 | vcr | `VCR.current_cassette.file` to print the current cassete file |
 | 27/06/17 | tools | https://www.shellcheck.net |
 | 09/06/17 | rspec | [Rails (time) travel_to](http://brandonhilkert.com/blog/rails-4-1-travel-to-test-helper/)
 | 31/05/17 | rspec | [Rspec compound expectations](https://relishapp.com/rspec/rspec-expectations/docs/compound-expectations) |
