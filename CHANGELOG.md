@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 12/09/17 | bash | diff with subshell | diff -u <(echo aa) <(echo bbbaaa) |
 | 12/09/17 | bash | tidy | to format html / xml |
 | 12/09/17 | bash | screen | screen to detach terminal |
 | 12/09/17 | bash | pstree | vi - (open the stdin in vim) |
