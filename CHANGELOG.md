@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 12/09/17 | bash | pstree | vi - (open the stdin in vim) |
 | 25/08/17 | naming | [How to name methods according to side effects](https://swift.org/documentation/api-design-guidelines/#name-according-to-side-effects) |
 | 23/08/17 | vcr | `VCR.current_cassette.file` to print the current cassete file |
 | 27/06/17 | tools | https://www.shellcheck.net |
