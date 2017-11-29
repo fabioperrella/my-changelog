@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 29/11/17 | ruby | avoid using delegate with `prefix: true` to help to find methods definitions  |
 | 12/09/17 | bash | diff with subshell | diff -u <(echo aa) <(echo bbbaaa) |
 | 12/09/17 | bash | tidy | to format html / xml |
 | 12/09/17 | bash | screen | screen to detach terminal |
