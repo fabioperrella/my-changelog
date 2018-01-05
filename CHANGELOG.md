@@ -2,6 +2,7 @@
 |------|----------|-------------|
 | 02/01/18 | firefox | extension [multi-account-containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) to use multiple sessions in FF |
 | 02/01/18 | git testing | `git fast-export` and `git fast-import` to save a fixture git repo inside a git repo, from [das s02e15](https://www.destroyallsoftware.com/screencasts/catalog/simple-bash-script-testing) |
+| 22/12/17 | sublime | plugin [Select Quoted](https://packagecontrol.io/packages/Select%20Quoted) to select string inside quotes |
 | 22/12/17 | sublime | plugin [CopyFilepathWithLineNumbers](https://github.com/theskyliner/CopyFilepathWithLineNumbers) to run specs faster |
 | 22/12/17 | rspec | [FactoryBot's attributes_for](https://github.com/thoughtbot/factory_bot/blob/master/GETTING_STARTED.md#using-factories) |
 | 29/11/17 | ruby | avoid using delegate with `prefix: true` to help to find methods definitions  |
