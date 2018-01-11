@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 11/01/18 | sublime | ctags plugin for a better "go to definition" |
 | 11/01/18 | ruby,tools | https://unused.codes - command to detect unused code |
 | 10/01/18 | ruby,tools | tableprintgem.com - gem to improve table visualization in rails console |
 | 02/01/18 | firefox | extension [multi-account-containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) to use multiple sessions in FF |
