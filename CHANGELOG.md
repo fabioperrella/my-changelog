@@ -1,5 +1,7 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 11/01/18 | ruby,tools | https://unused.codes - command to detect unused code |
+| 10/01/18 | ruby,tools | tableprintgem.com - gem to improve table visualization in rails console |
 | 02/01/18 | firefox | extension [multi-account-containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) to use multiple sessions in FF |
 | 02/01/18 | git testing | `git fast-export` and `git fast-import` to save a fixture git repo inside a git repo, from [das s02e15](https://www.destroyallsoftware.com/screencasts/catalog/simple-bash-script-testing) |
 | 22/12/17 | sublime | plugin [Select Quoted](https://packagecontrol.io/packages/Select%20Quoted) to select string inside quotes |
