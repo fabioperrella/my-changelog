@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 26/02/18 | ruby | [Enumerable#each_with_object](https://apidock.com/rails/Enumerable/each_with_object) |
 | 11/01/18 | sublime | ctags plugin for a better "go to definition" |
 | 11/01/18 | ruby,tools | https://unused.codes - command to detect unused code |
 | 10/01/18 | ruby,tools | tableprintgem.com - gem to improve table visualization in rails console |
