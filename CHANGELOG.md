@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 06/03/18 | rspec | [Webmock to_timeout](https://github.com/bblimke/webmock#raising-timeout-errors) to stub timeout errors |
 | 02/03/18 | bash | [xsel](https://github.com/kfish/xsel) to copy output to clipboard |
 | 02/03/18 | rspec | `mocks.verify_partial_doubles = true` to raise error if mocking a not existing method |
 | 26/02/18 | ruby | [Enumerable#each_with_object](https://apidock.com/rails/Enumerable/each_with_object) |
