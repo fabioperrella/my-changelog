@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 26/07/18 | linux | [prefer IPv4 over IPv6](http://terokarvinen.com/2016/prefer-ipv4-on-ubuntu-16-04-lts-xenial-etcgai-conf-precedence-ffff0096-100) |
 | 06/03/18 | rspec | [Webmock to_timeout](https://github.com/bblimke/webmock#raising-timeout-errors) to stub timeout errors |
 | 02/03/18 | bash | [xsel](https://github.com/kfish/xsel) to copy output to clipboard |
 | 02/03/18 | rspec | `mocks.verify_partial_doubles = true` to raise error if mocking a not existing method |
