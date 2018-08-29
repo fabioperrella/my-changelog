@@ -1,5 +1,7 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 29/08/18 | rails | [alias_attribute](https://apidock.com/rails/Module/alias_attribute) |
+| 29/08/18 | tools | firefox reader mode |
 | 23/08/18 | ruby | [gem contracts](https://github.com/egonSchiele/contracts.ruby) |
 | 26/07/18 | linux | [prefer IPv4 over IPv6](http://terokarvinen.com/2016/prefer-ipv4-on-ubuntu-16-04-lts-xenial-etcgai-conf-precedence-ffff0096-100) |
 | 06/03/18 | rspec | [Webmock to_timeout](https://github.com/bblimke/webmock#raising-timeout-errors) to stub timeout errors |
