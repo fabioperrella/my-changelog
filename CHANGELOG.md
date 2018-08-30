@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 30/08/18 | postgres | [tracking progress of an update](https://drone-ah.com/2011/11/02/tracking-progress-of-an-update-statement-1101/) |
 | 29/08/18 | rails | [alias_attribute](https://apidock.com/rails/Module/alias_attribute) |
 | 29/08/18 | tools | firefox reader mode |
 | 23/08/18 | ruby | [gem contracts](https://github.com/egonSchiele/contracts.ruby) |
