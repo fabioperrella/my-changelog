@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 03/10/18 | git | git rebase --preserve-merges |
 | 31/08/18 | postgres | [using constraint to set a column not null withou locking the table](https://medium.com/doctolib-engineering/adding-a-not-null-constraint-on-pg-faster-with-minimal-locking-38b2c00c4d1c) |
 | 31/08/18 | rails | [change_column_null to set a column null](https://apidock.com/rails/v4.2.7/ActiveRecord/ConnectionAdapters/SchemaStatements/change_column_null) |
 | 30/08/18 | postgres | [tracking progress of an update](https://drone-ah.com/2011/11/02/tracking-progress-of-an-update-statement-1101/) |
