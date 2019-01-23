@@ -3,6 +3,7 @@
 | 21/03/19 | rails | [try works different in rails 3 and rails 4](https://stackoverflow.com/questions/7426808/rails-try-method-throwing-nomethoderror) |
 | 07/02/19 | rails | [resolving activerecord N+1](http://blog.scoutapp.com/articles/2017/01/24/activerecord-includes-vs-joins-vs-preload-vs-eager_load-when-and-where) |
 | 04/02/19 | postgres | [using row_number to get first element when grouping by](https://blog.codeship.com/folding-postgres-window-functions-into-rails/) |
+| 23/01/19 | rspec | `rspec --bisect` to find the cause of failing tests  |
 | 03/10/18 | git | git rebase --preserve-merges |
 | 31/08/18 | postgres | [using constraint to set a column not null withou locking the table](https://medium.com/doctolib-engineering/adding-a-not-null-constraint-on-pg-faster-with-minimal-locking-38b2c00c4d1c) |
 | 31/08/18 | rails | [change_column_null to set a column null](https://apidock.com/rails/v4.2.7/ActiveRecord/ConnectionAdapters/SchemaStatements/change_column_null) |
@@ -41,7 +42,7 @@
 | 07/04/17 | grafana | use `group by time($interval)` to retrive data from a big time interval, otherwise it will reach the limit of `max-select-point` |
 | 22/03/17 | ruby | [Array &(and)](https://ruby-doc.org/core-2.4.0/Array.html#method-i-26) to return the intersection of 2 arrays |
 | 16/03/17 | rails | ActiveRecord query `.where('lala = :value and popo = :other', value: 'x', other: 'y')` |
-| 14/03/17 | rails | [ActiveRecord nested transactions](http://api.rubyonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html) |
+| 14/03/17 | rails | [ActiveRecord nested transactions](http://api.reonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html) |
 | 11/03/17 | js | [Current status of JS tools](https://hackernoon.com/a-map-to-modern-javascript-development-2017-16d9eb86309c#.8xo1fckel) |
 | 02/03/17 | tools | [jepsen.io](jepsen.io) for analysis over databases |
 | 01/03/17 | sublime | [shortcut to move to other panels](http://stackoverflow.com/questions/25065771/move-tab-from-one-column-to-another-in-sublime-using-only-keys) |
