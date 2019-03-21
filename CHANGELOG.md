@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 21/03/19 | rails | [try works different in rails 3 and rails 4](https://stackoverflow.com/questions/7426808/rails-try-method-throwing-nomethoderror) |
 | 07/02/19 | rails | [resolving activerecord N+1](http://blog.scoutapp.com/articles/2017/01/24/activerecord-includes-vs-joins-vs-preload-vs-eager_load-when-and-where) |
 | 04/02/19 | postgres | [using row_number to get first element when grouping by](https://blog.codeship.com/folding-postgres-window-functions-into-rails/) |
 | 03/10/18 | git | git rebase --preserve-merges |
