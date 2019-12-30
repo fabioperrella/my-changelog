@@ -1,5 +1,7 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 30/12/19 | bash | To open gzip files with less: `zless` |
+| 30/12/19 | memcached | To flush all data via telnet: `echo 'flush_all' | nc localhost 11211` |
 | 28/05/19 | sublime | [plugin BufferScroll](https://github.com/titoBouzout/BufferScroll) to save the state of code folding |
 | 21/03/19 | rails | [try works different in rails 3 and rails 4](https://stackoverflow.com/questions/7426808/rails-try-method-throwing-nomethoderror) |
 | 07/02/19 | rails | [resolving activerecord N+1](http://blog.scoutapp.com/articles/2017/01/24/activerecord-includes-vs-joins-vs-preload-vs-eager_load-when-and-where) |
