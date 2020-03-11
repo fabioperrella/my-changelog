@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 03/03/20 | tls | [Working around OpenSSL::SSL::SSLErrors](https://makandracards.com/makandra/26255-working-around-openssl-ssl-sslerrors) |
 | 03/01/20 | git | `git checkout --ours PATH` to resolve conflicts easily |
 | 30/12/19 | bash | To open gzip files with less: `zless` |
 | 30/12/19 | memcached | To flush all data via telnet: `echo 'flush_all' | nc localhost 11211` |
