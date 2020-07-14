@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 04/07/20 | ruby | [parenthesis rule for block variables](https://stackoverflow.com/questions/30326964/rules-on-parenthesis-for-block-variables) |
 | 03/03/20 | tls | [Working around OpenSSL::SSL::SSLErrors](https://makandracards.com/makandra/26255-working-around-openssl-ssl-sslerrors) |
 | 03/01/20 | git | `git checkout --ours PATH` to resolve conflicts easily |
 | 30/12/19 | bash | To open gzip files with less: `zless` |
