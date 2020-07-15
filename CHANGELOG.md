@@ -1,5 +1,6 @@
 | Date | Category | Description |
 |------|----------|-------------|
+| 15/07/20 | network | [domain lvh.me](https://www.quora.com/What-is-lvh-me) |
 | 04/07/20 | ruby | [parenthesis rule for block variables](https://stackoverflow.com/questions/30326964/rules-on-parenthesis-for-block-variables) |
 | 03/03/20 | tls | [Working around OpenSSL::SSL::SSLErrors](https://makandracards.com/makandra/26255-working-around-openssl-ssl-sslerrors) |
 | 03/01/20 | git | `git checkout --ours PATH` to resolve conflicts easily |
